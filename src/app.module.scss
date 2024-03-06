@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+    font-size: 1.6rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+  
+  
+  .cardContainer {
+    margin: 1.6rem;
+    padding: 0.8rem;
+    border: 0.1rem solid #414141;
+    border-radius: 0.4rem;
+    cursor: pointer;
+  }
+  .blueBorder {
+    border: 0.2rem solid blue;
+}
+.greenBorder {
+      border: 0.2rem solid #66cc99;
+  }
+.redBorder {
+      border: 0.2rem solid red;
+  }
+  .congratulation {
+    font-size: 2.8rem;
+  }
+}
+  
+  
